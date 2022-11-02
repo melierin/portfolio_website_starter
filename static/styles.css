@@ -1,0 +1,103 @@
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: Josefin Slab, serif;
+}
+h1 {
+    font-size: 48px;
+    font-family: Josefin Slab, serif;
+    font-weight: 'normal';
+}
+h3 {
+    color: #045762;
+    font-size: 30px;
+}
+.top-cont {
+    background-color: #FFEFEF;
+    padding-top: 240px;
+    padding-bottom: 220px;
+    position: relative;
+    top: 60px;
+}
+.mid-cont{
+padding-top: 60px;
+color: #d821752;
+font-size: 24px;
+font-family: Cormorant Garamond, serif;
+
+
+}
+.bottom-cont{
+background-color: #D8DFEE;
+width: 200px;
+height: 200px;
+}
+
+.tagline {
+    padding-top: 5px;
+    font-color: #CBF83E;
+    font-size: 18px;
+
+}
+.navbar{
+    background-color: #FFE3DE;
+    width: 100%;
+    height: 15px:
+    padding-top: 50px;
+    padding-bottom: 20px;
+    position: fixed;
+}
+.girl{
+    width:30px;
+    height:30px;
+    position: relative;
+    padding-right: 20%;
+    padding-left: 75%;
+    padding-top: 1%;
+}
+
+.food{
+    width:110px;
+    height:110px;
+    top: 10px;
+    position: relative;
+    animation-name: example;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
+    @keyframes example {
+    from {top: -10px;}
+    to {top: 80px;}
+}
+}
+.bottom-container {
+background-color: #D8DFEE;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.skills {
+padding-bottom: 50px;
+width: 50%;
+margin: auto;
+
+}
+.experience{
+padding-top: 20px;
+padding-bottom: 15px;
+}
+.contact-me {
+background-color: #D8DFEE;
+font-size: 18px;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.follow {
+width: 60px;
+height: 60px;
+}
+.comppic{
+padding-right: 150px;
+width: 240px;
+height: 240px;
+}
